@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34ec8423-e257-4ce5-80db-41917faa6501" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/argocd_replica_setting.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/esxi_host_ram_result.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/k8s_pods.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/k8s_ram_result.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k8s_esxi_restart_memo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/초안.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/초안.md" beforeDir="false" afterPath="$PROJECT_DIR$/images/초안.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721727479065</updated>
-      <workItem from="1721727480296" duration="4051000" />
+      <workItem from="1721727480296" duration="4245000" />
     </task>
     <servers />
   </component>
